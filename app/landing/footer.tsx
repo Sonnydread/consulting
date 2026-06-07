@@ -14,7 +14,7 @@ export default function FooterPremium() {
       {/* Glow */}
       <div className="absolute left-1/2 top-0 h-80 w-80 -translate-x-1/2 rounded-full bg-cyan-500/10 blur-[120px]" />
 
-      <div className="relative mx-auto max-w-7xl px-6 py-20">
+      <div className="relative mx-auto max-w-7xl px-6 py-22">
         {/* Logo */}
         <motion.div
           initial={{ opacity: 0, y: 25 }}
