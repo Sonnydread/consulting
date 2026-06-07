@@ -12,7 +12,7 @@ export default function FooterPremium() {
   return (
     <footer id="contacto" className="relative overflow-hidden border-t border-white/10 bg-slate-950">
       {/* Glow */}
-      <div className="absolute left-1/2 top-0 h-80 w-80 -translate-x-1/2 rounded-full bg-cyan-500/10 blur-[120px]" />
+      <div className="absolute left-1/2 top-0 h-80 w-80 -translate-x-1/2 rounded-full bg-cyan-500/30 blur-[120px]" />
 
       <div className="relative mx-auto max-w-7xl px-6 py-22">
         {/* Logo */}
